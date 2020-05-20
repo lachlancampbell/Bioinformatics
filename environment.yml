@@ -11,3 +11,5 @@ dependencies:
   - pandas
   - python=3
   - psutil
+  - ipycytoscape=0.2.2
+  - networkx
