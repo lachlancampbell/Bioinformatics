@@ -4,7 +4,7 @@ Example repository to create an environment with course materials in Python.
 
 ## Try it on Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lachlancampbell/Bioinformatics)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lachlancampbell/Bioinformatics/master)
 
 ## Structure of the repo
 
