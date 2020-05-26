@@ -14,3 +14,4 @@ dependencies:
   - psutil
   - ipycytoscape=0.2.2
   - networkx
+  - reportlab
