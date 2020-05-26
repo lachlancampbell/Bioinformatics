@@ -10,6 +10,7 @@ dependencies:
   - numpy
   - pandas
   - python=3
+  - biopython
   - psutil
   - ipycytoscape=0.2.2
   - networkx
